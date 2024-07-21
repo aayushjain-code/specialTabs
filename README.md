@@ -36,11 +36,13 @@ A simple and customizable tabs component for React applications.
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/05943bc8-008e-4eaf-941a-ce7c54a7d383)
+[![image](https://github.com/user-attachments/assets/05943bc8-008e-4eaf-941a-ce7c54a7d383)]
 
-## Video
+## Here's the demo video of the application
 
-https://github.com/user-attachments/assets/53f70fca-6376-461e-b044-0af34f9fc2ea
+Check out the video below for a detailed walkthrough:
+
+[![video](https://github.com/user-attachments/assets/53f70fca-6376-461e-b044-0af34f9fc2ea)]
 
 ## Example
 

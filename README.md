@@ -22,7 +22,7 @@ Here's an example of how to use the `SpecialTabs` component in your application:
 ```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SpecialTabs from 'special-tabs';
+import SpecialTabs from './components/SpecialTabs'; //Specify the path of SpecialTabs as per your folder structure
 
 const App = () => {
   const screens = [
